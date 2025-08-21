@@ -8,12 +8,21 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
+<p align="left">Hello World!!</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nasrullah1999)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/m-nasrullah92/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://m.facebook.com/nasrullah.lawela/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/moh_nasrullah_92/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoft.svg' alt='microsoft' height='40'>](https://account.microsoft.com/?ref=MeControl&refd=support.microsoft.com)  
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nasrullah1999&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nasrullah1999&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nasrullah1999/Nasrullah1999/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nasrullah1999/Nasrullah1999/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nasrullah1999/Nasrullah1999/output/pacman-contribution-graph.svg">
 </picture>
+
+###
