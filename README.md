@@ -39,7 +39,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nasrullah1999.Nasrullah1999&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nasrullah1999"  />
 </div>
 
 ###
