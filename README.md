@@ -113,7 +113,3 @@
 </div>
 
 ###
-
-![Animasi Profil](animasi.svg)
-
-###
